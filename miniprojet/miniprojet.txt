@@ -1,0 +1,8 @@
+gestion de collectionnaire
+(figurine,)
+
+les contrainte
+
+les variable en espagnol
+et 
+commantaire par chaque ligne
